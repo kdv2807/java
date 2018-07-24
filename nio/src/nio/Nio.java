@@ -13,9 +13,9 @@ public class Nio {
 //            Path src=Paths.get("E:\\karan\\Demo.txt");                     //to move the file when file already exist
 //            Path dest=Paths.get("E:\\karan_java\\Demo.txt");
 //            Files.move(src, dest, StandardCopyOption.REPLACE_EXISTING);
-              Path src=Paths.get("E:\\karan\\Demo.txt");                  //to copy the file with attributes
-              Path dest=Paths.get("E:\\karan_java\\Demo.txt");
-              Files.move(src, dest);
+//             Path src=Paths.get("E:\\karan\\Demo.txt");                  //to copy the file with attributes
+//           Path dest=Paths.get("E:\\karan_java\\Demo.txt");
+//          Files.move(src, dest);
 //            Path src=Paths.get("E:\\karan\\Demo.txt");                  //to copy the file when file exist in folder
 //            Path dest=Paths.get("E:\\karan_java\\Demo.txt");
 //            Files.copy(src, dest,StandardCopyOption.REPLACE_EXISTING);
